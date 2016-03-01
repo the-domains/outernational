@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6847476
+  brandStrength: 0
+  lightness: 1
+  brandColors:
+    - '#4B4239'
+    - '#FAFAFC'
+    - '#B4A391'
+    - '#6E8877'
+    - '#394290'
+  rhythmicContrast: 0.6267455
+typography_spectrum: 0.5741138
+name: Outernational
